@@ -27,7 +27,6 @@ giúp các doanh nghiệp và cơ quan liên quan đưa ra các quyết định 
 ## Cấu trúc thư mục
 * Data: Lưu trữ dữ liệu thô
 * Final_project.ipynb: mã nguồn (source code)
-* Slide.pptx: Báo cáo đồ án (file PowerPoint)
 * Slide.pdf: Báo cáo đồ án (file PDF)
 * README.md
 
