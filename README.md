@@ -48,4 +48,4 @@ giúp các doanh nghiệp và cơ quan liên quan đưa ra các quyết định 
 
 ## Liên hệ
 * *Pham Cong Su*
-* *Email: supcfx16803@funix.edu.vn / phamcongsu95@gmail.com*
+* *Email: supcfx16803@funix.edu.vn*
